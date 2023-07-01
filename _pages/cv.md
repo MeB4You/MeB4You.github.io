@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "CV/Resume"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-* CV: 
-* Resume: (https://github.com/MeB4You/MeB4You.github.io/blob/159e048172155cd6311abfb94fa4a3ca46314aed/files/Dylan_Chen_Resume_2023.pdf)
+* [**CV**]()
+* [**Resume**](https://github.com/MeB4You/MeB4You.github.io/blob/159e048172155cd6311abfb94fa4a3ca46314aed/files/Dylan_Chen_Resume_2023.pdf)
 
 <!-- {% include base_path %}
 Education
