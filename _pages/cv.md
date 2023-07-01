@@ -1,14 +1,16 @@
 ---
 layout: archive
-title: "CV"
+title: "CV/Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+CV: 
+Resume: https://github.com/MeB4You/MeB4You.github.io/files/Dylan_Chen_Resume_2023.pdf
 
+<!-- {% include base_path %}
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -56,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
