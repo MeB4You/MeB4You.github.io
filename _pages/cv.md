@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-CV: 
-Resume: https://github.com/MeB4You/MeB4You.github.io/files/Dylan_Chen_Resume_2023.pdf
+CV: <br />
+Resume: (https://github.com/MeB4You/MeB4You.github.io/files/Dylan_Chen_Resume_2023.pdf) <br/>
 
 <!-- {% include base_path %}
 Education
