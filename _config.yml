@@ -66,9 +66,9 @@ analytics:
 author:
   name             : "Dylan Chen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              :  # "Your biography for the left-hand sidebar"
   location         : "Irvine, CA"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
