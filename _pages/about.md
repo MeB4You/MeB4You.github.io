@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Computer science student at University of California Irvine.
+I'm a Computer Science student at University of California Irvine.
