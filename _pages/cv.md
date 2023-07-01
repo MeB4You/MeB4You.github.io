@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 * [**CV**]()
-* [**Resume**](https://github.com/MeB4You/MeB4You.github.io/blob/159e048172155cd6311abfb94fa4a3ca46314aed/files/Dylan_Chen_Resume_2023.pdf)
+* [**Resume**](https://github.com/MeB4You/MeB4You.github.io/files/Dylan_Chen_Resume_2023.pdf)
 
 <!-- {% include base_path %}
 Education
